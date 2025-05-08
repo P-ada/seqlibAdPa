@@ -44,7 +44,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = 'https://github.com/githubusername/seqlibAdPa'
-Repository = 'https://github.com/githubusername/seqlibAdPa'
-'Bug Tracker' = 'https://github.com/mb/githubusername/seqlibAdPa/issues'
+Homepage = 'https://github.com/P-ada/seqlibAdPa'
+Repository = 'https://github.com/P-ada/seqlibAdPa'
+'Bug Tracker' = 'https://github.com/P-ada/seqlibAdPa/issues'
 
